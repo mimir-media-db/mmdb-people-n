@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nathan_lane",
+  "name": "Nathan Lane",
+  "external_ids": {
+    "wikidata": "Q491264",
+    "imdb": "nm0001447"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

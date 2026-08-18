@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_brimble",
+  "name": "Nick Brimble",
+  "external_ids": {
+    "wikidata": "Q1985349",
+    "imdb": "nm0003818"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

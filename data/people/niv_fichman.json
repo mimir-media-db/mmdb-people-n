@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_niv_fichman",
+  "name": "Niv Fichman",
+  "external_ids": {
+    "wikidata": "Q3342247",
+    "imdb": "nm0275651"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_east",
+  "name": "Nick East",
+  "external_ids": {
+    "wikidata": "Q128594977",
+    "imdb": "nm0247544"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

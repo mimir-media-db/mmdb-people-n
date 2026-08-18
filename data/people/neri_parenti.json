@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neri_parenti",
+  "name": "Neri Parenti",
+  "external_ids": {
+    "wikidata": "Q3429410",
+    "imdb": "nm0661345"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

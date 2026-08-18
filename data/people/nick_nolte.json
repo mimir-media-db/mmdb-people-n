@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_nolte",
+  "name": "Nick Nolte",
+  "external_ids": {
+    "wikidata": "Q188018",
+    "imdb": "nm0000560"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

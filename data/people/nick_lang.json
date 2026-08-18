@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_lang",
+  "name": "Nick Lang",
+  "external_ids": {
+    "wikidata": "Q3876018",
+    "imdb": "nm0402267"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

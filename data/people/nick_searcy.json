@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_searcy",
+  "name": "Nick Searcy",
+  "external_ids": {
+    "wikidata": "Q330460",
+    "imdb": "nm0780678"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

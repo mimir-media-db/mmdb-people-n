@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_jordan",
+  "name": "Neil Jordan",
+  "external_ids": {
+    "wikidata": "Q55428",
+    "imdb": "nm0001403"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

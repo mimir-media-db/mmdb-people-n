@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_cassavetes",
+  "name": "Nick Cassavetes",
+  "external_ids": {
+    "wikidata": "Q431191",
+    "imdb": "nm0001024"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}
