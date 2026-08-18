@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_diamond",
+  "name": "Neil Diamond",
+  "external_ids": {
+    "wikidata": "Q294531",
+    "imdb": "nm0004871"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_jacusso",
+  "name": "Nino Jacusso",
+  "external_ids": {
+    "wikidata": "Q1449531",
+    "imdb": "nm0415259"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicole_kidman",
+  "name": "Nicole Kidman",
+  "external_ids": {
+    "wikidata": "Q37459",
+    "imdb": "nm0000173"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

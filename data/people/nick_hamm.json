@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_hamm",
+  "name": "Nick Hamm",
+  "external_ids": {
+    "wikidata": "Q3339755",
+    "imdb": "nm0358327"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nash_edgerton",
+  "name": "Nash Edgerton",
+  "external_ids": {
+    "wikidata": "Q1027551",
+    "imdb": "nm0003482"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

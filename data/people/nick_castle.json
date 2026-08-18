@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_castle",
+  "name": "Nick Castle",
+  "external_ids": {
+    "wikidata": "Q936000",
+    "imdb": "nm0145309"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
