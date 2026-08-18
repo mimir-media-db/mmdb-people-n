@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_dagata",
+  "name": "Nino D'Agata",
+  "external_ids": {
+    "wikidata": "Q3877169",
+    "imdb": "nm1181023"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2021
+}
