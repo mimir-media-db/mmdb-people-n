@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_cave",
+  "name": "Nick Cave",
+  "external_ids": {
+    "wikidata": "Q192668",
+    "imdb": "nm0147022"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

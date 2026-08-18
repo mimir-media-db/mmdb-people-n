@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nancy_fish",
+  "name": "Nancy Fish",
+  "external_ids": {
+    "wikidata": "Q3335570",
+    "imdb": "nm0279297"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

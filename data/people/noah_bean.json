@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_noah_bean",
+  "name": "Noah Bean",
+  "external_ids": {
+    "wikidata": "Q984326",
+    "imdb": "nm0063800"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}
