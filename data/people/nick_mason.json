@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_mason",
+  "name": "Nick Mason",
+  "external_ids": {
+    "wikidata": "Q192936",
+    "imdb": "nm0556885"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_young",
+  "name": "Neil Young",
+  "external_ids": {
+    "wikidata": "Q633",
+    "imdb": "nm0949918"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}
