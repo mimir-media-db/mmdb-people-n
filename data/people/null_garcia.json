@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_null_garcia",
+  "name": "Nüll García",
+  "external_ids": {
+    "wikidata": "Q112828236",
+    "imdb": "nm3604075"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1986,
+  "death_year": null
+}
