@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_norah_jones",
+  "name": "Norah Jones",
+  "external_ids": {
+    "wikidata": "Q549981",
+    "imdb": "nm1289528"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

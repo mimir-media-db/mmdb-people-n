@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_noam_chomsky",
+  "name": "Noam Chomsky",
+  "external_ids": {
+    "wikidata": "Q9049",
+    "imdb": "nm0159008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928
+}

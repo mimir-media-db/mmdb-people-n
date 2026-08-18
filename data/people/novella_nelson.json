@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_novella_nelson",
+  "name": "Novella Nelson",
+  "external_ids": {
+    "wikidata": "Q3309607",
+    "imdb": "nm0625645"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2017
+}
