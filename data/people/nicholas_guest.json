@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicholas_guest",
+  "name": "Nicholas Guest",
+  "external_ids": {
+    "wikidata": "Q1984875",
+    "imdb": "nm0346415"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

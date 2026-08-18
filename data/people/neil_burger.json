@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_burger",
+  "name": "Neil Burger",
+  "external_ids": {
+    "wikidata": "Q706300",
+    "imdb": "nm1139726"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

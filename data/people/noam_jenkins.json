@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_noam_jenkins",
+  "name": "Noam Jenkins",
+  "external_ids": {
+    "wikidata": "Q3877584",
+    "imdb": "nm0420937"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}
