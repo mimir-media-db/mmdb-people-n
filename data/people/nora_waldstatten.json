@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nora_waldstatten",
+  "name": "Nora Waldstätten",
+  "external_ids": {
+    "wikidata": "Q112372",
+    "imdb": "nm1768149"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

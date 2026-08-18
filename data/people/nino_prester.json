@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_prester",
+  "name": "Nino Prester",
+  "external_ids": {
+    "wikidata": "Q3877212",
+    "imdb": "nm0696341"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}
