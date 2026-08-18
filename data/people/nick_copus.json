@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_copus",
+  "name": "Nick Copus",
+  "external_ids": {
+    "wikidata": "Q13602305",
+    "imdb": "nm0178944"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

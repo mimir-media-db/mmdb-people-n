@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_frost",
+  "name": "Nick Frost",
+  "external_ids": {
+    "wikidata": "Q363400",
+    "imdb": "nm0296545"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

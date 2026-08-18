@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_norma_argentina",
+  "name": "Norma Argentina",
+  "external_ids": {
+    "wikidata": "Q11695925",
+    "imdb": "nm5816685"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

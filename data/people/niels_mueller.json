@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_niels_mueller",
+  "name": "Niels Mueller",
+  "external_ids": {
+    "wikidata": "Q3341288",
+    "imdb": "nm0007158"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
