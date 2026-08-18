@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_frassica",
+  "name": "Nino Frassica",
+  "external_ids": {
+    "wikidata": "Q559570",
+    "imdb": "nm0292291"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

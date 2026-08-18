@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_natalie_cole",
+  "name": "Natalie Cole",
+  "external_ids": {
+    "wikidata": "Q231942",
+    "imdb": "nm0004831"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950,
+  "death_year": 2015
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nancho_novo",
+  "name": "Nancho Novo",
+  "external_ids": {
+    "wikidata": "Q2839885",
+    "imdb": "nm0637181"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

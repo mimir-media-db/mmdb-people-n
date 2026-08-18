@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nicky_katt",
+  "name": "Nicky Katt",
+  "external_ids": {
+    "wikidata": "Q729618",
+    "imdb": "nm0441588"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970,
+  "death_year": 2025
+}

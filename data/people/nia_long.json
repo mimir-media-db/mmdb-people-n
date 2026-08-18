@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nia_long",
+  "name": "Nia Long",
+  "external_ids": {
+    "wikidata": "Q272956",
+    "imdb": "nm0000505"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

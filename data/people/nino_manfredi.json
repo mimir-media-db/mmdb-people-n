@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_manfredi",
+  "name": "Nino Manfredi",
+  "external_ids": {
+    "wikidata": "Q55456",
+    "imdb": "nm0542063"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 2004
+}

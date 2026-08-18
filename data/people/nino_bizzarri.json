@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_bizzarri",
+  "name": "Nino Bizzarri",
+  "external_ids": {
+    "wikidata": "Q527279",
+    "imdb": "nm0084713"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

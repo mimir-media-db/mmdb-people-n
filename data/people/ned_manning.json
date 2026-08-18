@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ned_manning",
+  "name": "Ned Manning",
+  "external_ids": {
+    "wikidata": "Q6986037",
+    "imdb": "nm0543345"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
