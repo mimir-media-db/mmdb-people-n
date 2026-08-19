@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nic_good",
+  "name": "Nic Good",
+  "external_ids": {
+    "wikidata": "Q26913000",
+    "imdb": "nm5503111"
+  },
+  "last_updated": "2026-08-19"
+}

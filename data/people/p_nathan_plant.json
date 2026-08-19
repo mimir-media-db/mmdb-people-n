@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nathan_plant",
+  "name": "Nathan Plant",
+  "external_ids": {
+    "wikidata": "Q28039858",
+    "imdb": "nm6191342"
+  },
+  "last_updated": "2026-08-19"
+}
