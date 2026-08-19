@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nive_nielsen",
+  "name": "Nive Nielsen",
+  "external_ids": {
+    "wikidata": "Q19508994",
+    "imdb": "nm2156044"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

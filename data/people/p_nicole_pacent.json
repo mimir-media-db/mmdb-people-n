@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicole_pacent",
+  "name": "Nicole Pacent",
+  "external_ids": {
+    "wikidata": "Q23034963",
+    "imdb": "nm3347308"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

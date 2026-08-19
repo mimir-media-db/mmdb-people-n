@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_knight",
+  "name": "Nick Knight",
+  "external_ids": {
+    "wikidata": "Q3339764",
+    "imdb": "nm1193353"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
