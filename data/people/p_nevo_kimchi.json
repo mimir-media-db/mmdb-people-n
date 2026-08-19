@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nevo_kimchi",
+  "name": "Nevo Kimchi",
+  "external_ids": {
+    "wikidata": "Q7068871",
+    "imdb": "nm0453931"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

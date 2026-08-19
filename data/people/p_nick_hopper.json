@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_hopper",
+  "name": "Nick Hopper",
+  "external_ids": {
+    "wikidata": "Q21334768",
+    "imdb": "nm4793016"
+  },
+  "last_updated": "2026-08-19"
+}
