@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neymar",
+  "name": "Neymar",
+  "external_ids": {
+    "wikidata": "Q142794",
+    "imdb": "nm4827772"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
