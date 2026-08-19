@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_naxo_fiol",
+  "name": "Naxo Fiol",
+  "external_ids": {
+    "wikidata": "Q23907324",
+    "imdb": "nm1379946"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

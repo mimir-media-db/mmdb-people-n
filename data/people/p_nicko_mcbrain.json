@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicko_mcbrain",
+  "name": "Nicko McBrain",
+  "external_ids": {
+    "wikidata": "Q223202",
+    "imdb": "nm1066003"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

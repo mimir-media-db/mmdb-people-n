@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_flynn",
+  "name": "Nick Flynn",
+  "external_ids": {
+    "wikidata": "Q15513166",
+    "imdb": "nm1793387"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}
