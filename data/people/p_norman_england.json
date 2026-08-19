@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_norman_england",
+  "name": "Norman England",
+  "external_ids": {
+    "wikidata": "Q7052195",
+    "imdb": "nm1616580"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
