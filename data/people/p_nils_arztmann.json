@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nils_arztmann",
+  "name": "Nils Arztmann",
+  "external_ids": {
+    "wikidata": "Q115645366",
+    "imdb": "nm11130727"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
