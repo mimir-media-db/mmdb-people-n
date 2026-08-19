@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_naoto",
+  "name": "Naoto",
+  "external_ids": {
+    "wikidata": "Q2647904",
+    "imdb": "nm4824655"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

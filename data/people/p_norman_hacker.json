@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_norman_hacker",
+  "name": "Norman Hacker",
+  "external_ids": {
+    "wikidata": "Q15436459",
+    "imdb": "nm1930249"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
