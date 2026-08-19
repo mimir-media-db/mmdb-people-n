@@ -7520,6 +7520,12 @@
     "path": "data/people/p_noah_huntley.json"
   },
   {
+    "id": "p_noah_james_shebib",
+    "name": "40",
+    "birth_year": 1983,
+    "path": "data/people/p_noah_james_shebib.json"
+  },
+  {
     "id": "p_noah_kadner",
     "name": "Noah Kadner",
     "path": "data/people/p_noah_kadner.json"
