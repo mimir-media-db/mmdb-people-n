@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_natalie_mars",
+  "name": "Natalie Mars",
+  "external_ids": {
+    "wikidata": "Q47067592",
+    "imdb": "nm8427914"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
