@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_jonas",
+  "name": "Nick Jonas",
+  "external_ids": {
+    "wikidata": "Q201656",
+    "imdb": "nm2679917"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
