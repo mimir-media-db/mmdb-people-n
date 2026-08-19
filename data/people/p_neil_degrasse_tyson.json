@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_degrasse_tyson",
+  "name": "Neil deGrasse Tyson",
+  "external_ids": {
+    "wikidata": "Q310903",
+    "imdb": "nm1183205"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
