@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nancy_marchand",
+  "name": "Nancy Marchand",
+  "external_ids": {
+    "wikidata": "Q257065",
+    "imdb": "nm0545408"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2000
+}
