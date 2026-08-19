@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nancy_grant",
+  "name": "Nancy Grant",
+  "external_ids": {
+    "wikidata": "Q22278009",
+    "imdb": "nm3119194"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

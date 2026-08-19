@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nivin_pauly",
+  "name": "Nivin Pauly",
+  "external_ids": {
+    "wikidata": "Q7041818",
+    "imdb": "nm4028885"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

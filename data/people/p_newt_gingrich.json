@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_newt_gingrich",
+  "name": "Newt Gingrich",
+  "external_ids": {
+    "wikidata": "Q182788",
+    "imdb": "nm1096881"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}

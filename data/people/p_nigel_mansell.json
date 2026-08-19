@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nigel_mansell",
+  "name": "Nigel Mansell",
+  "external_ids": {
+    "wikidata": "Q10501",
+    "imdb": "nm0543748"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
