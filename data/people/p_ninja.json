@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ninja",
+  "name": "Ninja",
+  "external_ids": {
+    "wikidata": "Q91906291",
+    "imdb": "nm8906536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
