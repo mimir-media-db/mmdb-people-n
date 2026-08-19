@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nao_matsushita",
+  "name": "Nao Matsushita",
+  "external_ids": {
+    "wikidata": "Q1041708",
+    "imdb": "nm2399221"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

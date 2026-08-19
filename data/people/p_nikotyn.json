@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nikotyn",
+  "name": "Nikotýn",
+  "external_ids": {
+    "wikidata": "Q131997878",
+    "imdb": "nm2746413"
+  },
+  "last_updated": "2026-08-19",
+  "death_year": 2011
+}

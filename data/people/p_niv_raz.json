@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_niv_raz",
+  "name": "Niv Raz",
+  "external_ids": {
+    "wikidata": "Q6586993",
+    "imdb": "nm1763804"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

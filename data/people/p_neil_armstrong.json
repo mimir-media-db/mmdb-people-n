@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_armstrong",
+  "name": "Neil Armstrong",
+  "external_ids": {
+    "wikidata": "Q1615",
+    "imdb": "nm0035842"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 2012
+}
