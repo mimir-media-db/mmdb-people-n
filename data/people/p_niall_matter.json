@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_niall_matter",
+  "name": "Niall Matter",
+  "external_ids": {
+    "wikidata": "Q1189063",
+    "imdb": "nm2473076"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
