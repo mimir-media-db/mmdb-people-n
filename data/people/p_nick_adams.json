@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_adams",
+  "name": "Nick Adams",
+  "external_ids": {
+    "wikidata": "Q7026688",
+    "imdb": "nm3098593"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
