@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_clooney",
+  "name": "Nick Clooney",
+  "external_ids": {
+    "wikidata": "Q3138805",
+    "imdb": "nm0167040"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1934
+}
