@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_natalie_wood",
+  "name": "Natalie Wood",
+  "external_ids": {
+    "wikidata": "Q180919",
+    "imdb": "nm0000081"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938,
+  "death_year": 1981
+}
