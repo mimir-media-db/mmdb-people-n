@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_len",
+  "name": "Nick Len",
+  "external_ids": {
+    "wikidata": "Q99194981",
+    "imdb": "nm10032223"
+  },
+  "last_updated": "2026-08-19"
+}
