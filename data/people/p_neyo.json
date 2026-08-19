@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_neyo",
+  "name": "Ne-Yo",
+  "external_ids": {
+    "wikidata": "Q193710",
+    "imdb": "nm1666212"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nany_people",
+  "name": "Nany People",
+  "external_ids": {
+    "wikidata": "Q10335484",
+    "imdb": "nm2268449"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_quested",
+  "name": "Nick Quested",
+  "external_ids": {
+    "wikidata": "Q112315487",
+    "imdb": "nm1516023"
+  },
+  "last_updated": "2026-08-19"
+}
