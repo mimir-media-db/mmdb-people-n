@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_novak_djokovic",
+  "name": "Novak Djokovic",
+  "external_ids": {
+    "wikidata": "Q5812",
+    "imdb": "nm2980365"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_leitner",
+  "name": "Nino Leitner",
+  "external_ids": {
+    "wikidata": "Q27051941",
+    "imdb": "nm2595116"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

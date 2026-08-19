@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nelly_staff",
+  "name": "Nelly Staff",
+  "external_ids": {
+    "wikidata": "Q111708989",
+    "imdb": "nm5164939"
+  },
+  "last_updated": "2026-08-19"
+}
