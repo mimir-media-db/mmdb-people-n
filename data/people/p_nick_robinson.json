@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_robinson",
+  "name": "Nick Robinson",
+  "external_ids": {
+    "wikidata": "Q2985242",
+    "imdb": "nm3538718"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

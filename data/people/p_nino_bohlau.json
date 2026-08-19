@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_bohlau",
+  "name": "Nino Böhlau",
+  "external_ids": {
+    "wikidata": "Q19297324",
+    "imdb": "nm4850217"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
