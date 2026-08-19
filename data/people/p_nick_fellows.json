@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_fellows",
+  "name": "Nick Fellows",
+  "external_ids": {
+    "wikidata": "Q121365483",
+    "imdb": "nm15108188"
+  },
+  "last_updated": "2026-08-19"
+}
