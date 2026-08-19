@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_norm_lewis",
+  "name": "Norm Lewis",
+  "external_ids": {
+    "wikidata": "Q7051523",
+    "imdb": "nm0507592"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
