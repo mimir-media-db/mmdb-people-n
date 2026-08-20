@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nina_simone",
+  "name": "Nina Simone",
+  "external_ids": {
+    "wikidata": "Q174957",
+    "imdb": "nm0800510"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1933,
+  "death_year": 2003
+}
