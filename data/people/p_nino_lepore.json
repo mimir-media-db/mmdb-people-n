@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_lepore",
+  "name": "Nino Lepore",
+  "external_ids": {
+    "wikidata": "Q3877188",
+    "imdb": "nm0503347"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
