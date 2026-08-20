@@ -1662,6 +1662,11 @@
     "path": "data/people/p_nadja_brand.json"
   },
   {
+    "id": "p_nadja_dumouchel",
+    "name": "Nadja Dumouchel",
+    "path": "data/people/p_nadja_dumouchel.json"
+  },
+  {
     "id": "p_nadja_engel",
     "name": "Nadja Engel",
     "birth_year": 1964,
@@ -5561,6 +5566,12 @@
     "path": "data/people/p_nasima_khan.json"
   },
   {
+    "id": "p_nasir_adeeb",
+    "name": "Nasir Adeeb",
+    "birth_year": 1947,
+    "path": "data/people/p_nasir_adeeb.json"
+  },
+  {
     "id": "p_nasir_ahmad_elrufai",
     "name": "Nasir Ahmad el-Rufai",
     "birth_year": 1960,
@@ -6100,6 +6111,11 @@
     "name": "Natalia Beristáin",
     "birth_year": 1980,
     "path": "data/people/p_natalia_beristain.json"
+  },
+  {
+    "id": "p_natalia_blok",
+    "name": "Natalia Blok",
+    "path": "data/people/p_natalia_blok.json"
   },
   {
     "id": "p_natalia_bodiul",
@@ -11979,6 +11995,12 @@
     "path": "data/people/p_neil_h_weiss.json"
   },
   {
+    "id": "p_neil_hannon",
+    "name": "Neil Hannon",
+    "birth_year": 1970,
+    "path": "data/people/p_neil_hannon.json"
+  },
+  {
     "id": "p_neil_harbisson",
     "name": "Neil Harbisson",
     "birth_year": 1984,
@@ -16411,6 +16433,12 @@
     "name": "Nick Lyon",
     "birth_year": 1970,
     "path": "data/people/p_nick_lyon.json"
+  },
+  {
+    "id": "p_nick_malmestrom",
+    "name": "Nick Malmeström",
+    "birth_year": 1966,
+    "path": "data/people/p_nick_malmestrom.json"
   },
   {
     "id": "p_nick_mancuso",
@@ -25329,6 +25357,11 @@
     "id": "p_nina_seul",
     "name": "Nina Seul",
     "path": "data/people/p_nina_seul.json"
+  },
+  {
+    "id": "p_nina_shulika",
+    "name": "Nina Shulika",
+    "path": "data/people/p_nina_shulika.json"
   },
   {
     "id": "p_nina_siemaszko",
