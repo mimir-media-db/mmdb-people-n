@@ -2670,6 +2670,12 @@
     "path": "data/people/p_nala_khumalo.json"
   },
   {
+    "id": "p_nala_sinephro",
+    "name": "Nala Sinephro",
+    "birth_year": 1995,
+    "path": "data/people/p_nala_sinephro.json"
+  },
+  {
     "id": "p_nalaka_gunawardene",
     "name": "Nalaka Gunawardene",
     "birth_year": 1966,
@@ -14686,6 +14692,12 @@
     "path": "data/people/p_niall_obrien.json"
   },
   {
+    "id": "p_niall_williams",
+    "name": "Niall Williams",
+    "birth_year": 1958,
+    "path": "data/people/p_niall_williams.json"
+  },
+  {
     "id": "p_niall_wright",
     "name": "Niall Wright",
     "birth_year": 1991,
@@ -22056,6 +22068,12 @@
     "path": "data/people/p_nikita_kukushkin.json"
   },
   {
+    "id": "p_nikita_lalwani",
+    "name": "Nikita Lalwani",
+    "birth_year": 1972,
+    "path": "data/people/p_nikita_lalwani.json"
+  },
+  {
     "id": "p_nikita_lavretsky",
     "name": "Nikita Lavretsky",
     "birth_year": 1994,
@@ -23216,6 +23234,12 @@
     "name": "Nikolai Valuev",
     "birth_year": 1973,
     "path": "data/people/p_nikolai_valuev.json"
+  },
+  {
+    "id": "p_nikolai_vasilkov",
+    "name": "Nikolai Vasilkov",
+    "birth_year": 1939,
+    "path": "data/people/p_nikolai_vasilkov.json"
   },
   {
     "id": "p_nikolai_vialkowitsch",
@@ -28752,6 +28776,12 @@
     "name": "Nonie Buencamino",
     "birth_year": 1966,
     "path": "data/people/p_nonie_buencamino.json"
+  },
+  {
+    "id": "p_nonji_nemoto",
+    "name": "Nonji Nemoto",
+    "birth_year": 1969,
+    "path": "data/people/p_nonji_nemoto.json"
   },
   {
     "id": "p_nonna_cardoner_gratacos",
