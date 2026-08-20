@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nico_cota",
+  "name": "Nico Cota",
+  "external_ids": {
+    "wikidata": "Q30028087",
+    "imdb": "nm2767413"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
