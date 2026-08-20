@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_niina_repo",
+  "name": "Niina Repo",
+  "external_ids": {
+    "wikidata": "Q11884415",
+    "imdb": "nm3021060"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
