@@ -450,6 +450,12 @@
     "path": "data/people/p_nacho_argiro.json"
   },
   {
+    "id": "p_nacho_cano",
+    "name": "Nacho Cano",
+    "birth_year": 1963,
+    "path": "data/people/p_nacho_cano.json"
+  },
+  {
     "id": "p_nacho_cerda",
     "name": "Nacho Cerdà",
     "birth_year": 1968,
@@ -5160,6 +5166,12 @@
     "path": "data/people/p_naruebet_kuno.json"
   },
   {
+    "id": "p_naruhisa_arakawa",
+    "name": "Naruhisa Arakawa",
+    "birth_year": 1964,
+    "path": "data/people/p_naruhisa_arakawa.json"
+  },
+  {
     "id": "p_narumi_kayashima",
     "name": "Narumi Kayashima",
     "birth_year": 1942,
@@ -5194,6 +5206,12 @@
     "name": "Narutaka Itō",
     "birth_year": 1976,
     "path": "data/people/p_narutaka_ito.json"
+  },
+  {
+    "id": "p_naruyoshi_kikuchi",
+    "name": "Naruyoshi Kikuchi",
+    "birth_year": 1963,
+    "path": "data/people/p_naruyoshi_kikuchi.json"
   },
   {
     "id": "p_nas",
@@ -6680,6 +6698,12 @@
     "name": "Natalie Mendoza",
     "birth_year": 1978,
     "path": "data/people/p_natalie_mendoza.json"
+  },
+  {
+    "id": "p_natalie_merchant",
+    "name": "Natalie Merchant",
+    "birth_year": 1963,
+    "path": "data/people/p_natalie_merchant.json"
   },
   {
     "id": "p_natalie_metzger",
@@ -8496,6 +8520,12 @@
     "path": "data/people/p_nathalie_perrey.json"
   },
   {
+    "id": "p_nathalie_petrowski",
+    "name": "Nathalie Petrowski",
+    "birth_year": 1954,
+    "path": "data/people/p_nathalie_petrowski.json"
+  },
+  {
     "id": "p_nathalie_plico",
     "name": "Nathalie Plico",
     "path": "data/people/p_nathalie_plico.json"
@@ -9249,6 +9279,12 @@
     "name": "Nati Kluger",
     "birth_year": 1976,
     "path": "data/people/p_nati_kluger.json"
+  },
+  {
+    "id": "p_natig_rasulzadeh",
+    "name": "Natig Rasulzadeh",
+    "birth_year": 1949,
+    "path": "data/people/p_natig_rasulzadeh.json"
   },
   {
     "id": "p_natina_reed",
@@ -11526,6 +11562,12 @@
     "path": "data/people/p_neil_gershenfeld.json"
   },
   {
+    "id": "p_neil_giraldo",
+    "name": "Neil Giraldo",
+    "birth_year": 1955,
+    "path": "data/people/p_neil_giraldo.json"
+  },
+  {
     "id": "p_neil_giuntoli",
     "name": "Neil Giuntoli",
     "birth_year": 1959,
@@ -12593,6 +12635,12 @@
     "name": "Nena Menti",
     "birth_year": 1945,
     "path": "data/people/p_nena_menti.json"
+  },
+  {
+    "id": "p_nenad_bach",
+    "name": "Nenad Bach",
+    "birth_year": 1953,
+    "path": "data/people/p_nenad_bach.json"
   },
   {
     "id": "p_nenad_cicinsain",
@@ -17085,6 +17133,12 @@
     "path": "data/people/p_nicola_grignani.json"
   },
   {
+    "id": "p_nicola_guaglianone",
+    "name": "Nicola Guaglianone",
+    "birth_year": 1973,
+    "path": "data/people/p_nicola_guaglianone.json"
+  },
+  {
     "id": "p_nicola_hens",
     "name": "Nicola Hens",
     "path": "data/people/p_nicola_hens.json"
@@ -17226,6 +17280,12 @@
     "name": "Nicola Stapleton",
     "birth_year": 1974,
     "path": "data/people/p_nicola_stapleton.json"
+  },
+  {
+    "id": "p_nicola_tescari",
+    "name": "Nicola Tescari",
+    "birth_year": 1972,
+    "path": "data/people/p_nicola_tescari.json"
   },
   {
     "id": "p_nicola_vitale_materi",
@@ -20175,6 +20235,12 @@
     "path": "data/people/p_nigel_anthony.json"
   },
   {
+    "id": "p_nigel_balchin",
+    "name": "Nigel Balchin",
+    "birth_year": 1908,
+    "path": "data/people/p_nigel_balchin.json"
+  },
+  {
     "id": "p_nigel_barber",
     "name": "Nigel Barber",
     "path": "data/people/p_nigel_barber.json"
@@ -22796,10 +22862,22 @@
     "path": "data/people/p_nikos_papatakis.json"
   },
   {
+    "id": "p_nikos_papazoglou",
+    "name": "Nikos Papazoglou",
+    "birth_year": 1948,
+    "path": "data/people/p_nikos_papazoglou.json"
+  },
+  {
     "id": "p_nikos_perakis",
     "name": "Nikos Perakis",
     "birth_year": 1944,
     "path": "data/people/p_nikos_perakis.json"
+  },
+  {
+    "id": "p_nikos_platyrachos",
+    "name": "Nikos Platyrachos",
+    "birth_year": 1964,
+    "path": "data/people/p_nikos_platyrachos.json"
   },
   {
     "id": "p_nikos_politis",
@@ -29480,6 +29558,11 @@
     "name": "Nukâka",
     "birth_year": 1971,
     "path": "data/people/p_nukaka.json"
+  },
+  {
+    "id": "p_nukri_abashidze",
+    "name": "Nukri Abashidze",
+    "path": "data/people/p_nukri_abashidze.json"
   },
   {
     "id": "p_nuli_omer",
