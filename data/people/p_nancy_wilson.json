@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nancy_wilson",
+  "name": "Nancy Wilson",
+  "external_ids": {
+    "wikidata": "Q263772",
+    "imdb": "nm0933896"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
