@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_neil_simon",
+  "name": "Neil Simon",
+  "external_ids": {
+    "wikidata": "Q315808",
+    "imdb": "nm0800319"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2018
+}
