@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicolas_jaar",
+  "name": "Nicolas Jaar",
+  "external_ids": {
+    "wikidata": "Q261566",
+    "imdb": "nm4111273"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1990
+}
