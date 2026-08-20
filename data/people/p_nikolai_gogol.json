@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nikolai_gogol",
+  "name": "Nikolai Gogol",
+  "external_ids": {
+    "wikidata": "Q43718",
+    "imdb": "nm0324690"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1809,
+  "death_year": 1852
+}
