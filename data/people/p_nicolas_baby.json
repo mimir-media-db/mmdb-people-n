@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicolas_baby",
+  "name": "Nicolas Baby",
+  "external_ids": {
+    "wikidata": "Q3340048",
+    "imdb": "nm0045154"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
