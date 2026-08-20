@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_rota",
+  "name": "Nino Rota",
+  "external_ids": {
+    "wikidata": "Q214665",
+    "imdb": "nm0000065"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1911,
+  "death_year": 1979
+}
