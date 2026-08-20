@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nino_josele",
+  "name": "Niño Josele",
+  "external_ids": {
+    "wikidata": "Q179263",
+    "imdb": "nm1021684"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
