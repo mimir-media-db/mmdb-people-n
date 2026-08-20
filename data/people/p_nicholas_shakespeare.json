@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nicholas_shakespeare",
+  "name": "Nicholas Shakespeare",
+  "external_ids": {
+    "wikidata": "Q731036",
+    "imdb": "nm0787649"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
