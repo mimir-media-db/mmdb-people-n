@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_drake",
+  "name": "Nick Drake",
+  "external_ids": {
+    "wikidata": "Q211588",
+    "imdb": "nm0236979"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948,
+  "death_year": 1974
+}
