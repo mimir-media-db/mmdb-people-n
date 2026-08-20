@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_nick_hornby",
+  "name": "Nick Hornby",
+  "external_ids": {
+    "wikidata": "Q313007",
+    "imdb": "nm0394984"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
