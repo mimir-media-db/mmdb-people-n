@@ -232,6 +232,12 @@
     "path": "data/people/p_nabanita_malakar.json"
   },
   {
+    "id": "p_nabarun_bhattacharya",
+    "name": "Nabarun Bhattacharya",
+    "birth_year": 1948,
+    "path": "data/people/p_nabarun_bhattacharya.json"
+  },
+  {
     "id": "p_nabeel_eisa",
     "name": "Nabeel Eisa",
     "birth_year": 1978,
@@ -870,6 +876,12 @@
     "id": "p_nadezhda_hatskevich",
     "name": "Nadezhda Hatskevich",
     "path": "data/people/p_nadezhda_hatskevich.json"
+  },
+  {
+    "id": "p_nadezhda_kozhushanaya",
+    "name": "Nadezhda Kozhushanaya",
+    "birth_year": 1952,
+    "path": "data/people/p_nadezhda_kozhushanaya.json"
   },
   {
     "id": "p_nadezhda_markina",
@@ -1920,6 +1932,11 @@
     "name": "Nagatoshi Sakamoto",
     "birth_year": 1929,
     "path": "data/people/p_nagatoshi_sakamoto.json"
+  },
+  {
+    "id": "p_nageen_tanvir",
+    "name": "Nageen Tanvir",
+    "path": "data/people/p_nageen_tanvir.json"
   },
   {
     "id": "p_nagendra_babu",
@@ -3593,6 +3610,12 @@
     "path": "data/people/p_nancy_schiesari.json"
   },
   {
+    "id": "p_nancy_schreiber",
+    "name": "Nancy Schreiber",
+    "birth_year": 1949,
+    "path": "data/people/p_nancy_schreiber.json"
+  },
+  {
     "id": "p_nancy_schwartzman",
     "name": "Nancy Schwartzman",
     "path": "data/people/p_nancy_schwartzman.json"
@@ -5124,6 +5147,12 @@
     "name": "Narilya Gulmongkolpech",
     "birth_year": 2000,
     "path": "data/people/p_narilya_gulmongkolpech.json"
+  },
+  {
+    "id": "p_nariman_abdulrahmanl",
+    "name": "Nariman Abdülrahmanlı",
+    "birth_year": 1958,
+    "path": "data/people/p_nariman_abdulrahmanl.json"
   },
   {
     "id": "p_nariman_aliev",
@@ -16924,6 +16953,12 @@
     "path": "data/people/p_nico_cortez.json"
   },
   {
+    "id": "p_nico_cota",
+    "name": "Nico Cota",
+    "birth_year": 1972,
+    "path": "data/people/p_nico_cota.json"
+  },
+  {
     "id": "p_nico_dalessandria",
     "name": "Nico D’Alessandria",
     "birth_year": 1941,
@@ -18392,6 +18427,12 @@
     "name": "Nicolas Marais",
     "birth_year": 1991,
     "path": "data/people/p_nicolas_marais.json"
+  },
+  {
+    "id": "p_nicolas_maranda",
+    "name": "Nicolas Maranda",
+    "birth_year": 1967,
+    "path": "data/people/p_nicolas_maranda.json"
   },
   {
     "id": "p_nicolas_marie",
@@ -21889,6 +21930,11 @@
     "path": "data/people/p_niklas_rockstrom.json"
   },
   {
+    "id": "p_niklas_rundquist",
+    "name": "Niklas Rundquist",
+    "path": "data/people/p_niklas_rundquist.json"
+  },
+  {
     "id": "p_niklas_stromstedt",
     "name": "Niklas Strömstedt",
     "birth_year": 1958,
@@ -24522,6 +24568,11 @@
     "name": "Niña Pastori",
     "birth_year": 1978,
     "path": "data/people/p_nina_pastori.json"
+  },
+  {
+    "id": "p_nina_penaloza",
+    "name": "Nina Peñaloza",
+    "path": "data/people/p_nina_penaloza.json"
   },
   {
     "id": "p_nina_persson",
@@ -29258,6 +29309,12 @@
     "id": "p_norman_saro",
     "name": "Norman Šáro",
     "path": "data/people/p_norman_saro.json"
+  },
+  {
+    "id": "p_norman_snider",
+    "name": "Norman Snider",
+    "birth_year": 1945,
+    "path": "data/people/p_norman_snider.json"
   },
   {
     "id": "p_norman_spinrad",
